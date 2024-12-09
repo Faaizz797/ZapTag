@@ -83,9 +83,9 @@ class HomeScreen extends StatelessWidget {
                     child: BuildSquareButton(
                       label: "Generate QR Code",
                       icon: Icons.qr_code,
-                      gradientColors: [
-                        const Color(0xFF53006B),
-                        const Color(0xFFAA04D8),
+                      gradientColors: const [
+                        Color(0xFF53006B),
+                        Color(0xFFAA04D8),
                       ],
                       onTap: () {
                         Navigator.pushNamed(context, '/generate');
@@ -98,9 +98,9 @@ class HomeScreen extends StatelessWidget {
                     child: BuildSquareButton(
                       label: "Scan QR Code",
                       icon: Icons.qr_code_scanner,
-                      gradientColors: [
-                        const Color(0xFF53006B),
-                        const Color(0xFFAA04D8),
+                      gradientColors: const [
+                        Color(0xFF53006B),
+                        Color(0xFFAA04D8),
                       ],
                       onTap: () {
                         Navigator.pushNamed(context, '/scan');
@@ -111,6 +111,7 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
           ),
+          const SizedBox(height: 30),
         ],
       ),
     );
