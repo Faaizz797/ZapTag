@@ -26,42 +26,9 @@ Here’s why you’ll love **ZapTag**:
 
 ---
 
-## ✨ Latest Updates  
-
-We’re constantly improving **ZapTag** to make your experience better. Here's what's new:  
-
-- **Custom QR Code Colors:**  
-  Add vibrant gradients to your QR codes for a more professional or fun look.  
-
-- **Improved Scanner Accuracy:**  
-  Enhanced the scanning algorithm to read QR codes faster and more accurately.  
-
-- **Integrated Sharing Options:**  
-  Share your codes across apps in just a few taps using the `share_plus` dependency.  
-
-- **Permissions Simplified:**  
-  Built-in permission handling ensures you get a hassle-free experience when accessing the camera or saving screenshots.  
-
----
-
 ## 🎯 Why ZapTag?  
 
 Because QR codes are everywhere, and you need a tool that’s powerful, customizable, and easy to use. Whether you're using it for business, personal branding, or just for fun, ZapTag has got you covered.  
-
----
-
-## 📸 Screenshots  
-
-Here’s a sneak peek at what you can expect with **ZapTag**:  
-
-- **Custom QR Code Generation:**  
-  ![Custom QR Code](assets/images/mockup_generate.png)  
-
-- **Scan with Ease:**  
-  ![QR Code Scanner](assets/images/mockup_scanner.png)  
-
-- **Personalized Colors:**  
-  ![Custom Colors](assets/images/mockup_colors.png)  
 
 ---
 
@@ -85,4 +52,4 @@ ZapTag is powered by cutting-edge technologies to deliver the best experience:
 
 Here’s a sneak peek at what you can expect:  
 
-(assets/images/mockup.png)  
+![app_preview](assets/images/mockup.png)  
