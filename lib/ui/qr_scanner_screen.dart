@@ -15,6 +15,7 @@ class _QrScannerScreenState extends State<QrScannerScreen> {
   final MobileScannerController _controller = MobileScannerController(
     detectionSpeed: DetectionSpeed.noDuplicates,
     returnImage: true,
+    facing: CameraFacing.front
   );
   String? barcodeValue;
 
